@@ -1,4 +1,4 @@
-package in.orenda.ThreadPool;
+package threadPool;
 
 import java.util.concurrent.*;
 
